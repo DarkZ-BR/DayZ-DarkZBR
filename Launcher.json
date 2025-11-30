@@ -1,8 +1,9 @@
 {
 	"Version": "1.1",
-	"FileList": "http://187.111.113.74/filelist.json",
+	"FileList": "http://187.111.113.74/Client-DayZ/filelist.json",
 	"DownloadUpdate": "http://187.111.113.74/Client-DayZ/GameFiles",
 	"News": ["https://github.com/DarkZ-BR/DayZ-DarkZBR/blob/main/News/Image.jpg"]
 }
+
 
 
